@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
   "packId": "pixelmon-classic",
-  "version": "2026.05.19",
+  "version": "2026.05.20-pixelmon-9.3.14",
   "title": "Launcher Asset Pack",
   "minecraftVersion": "1.21.1",
   "neoForgeVersion": "21.1.219",
   "mandatory": true,
   "deleteUnlisted": true,
   "changelog": [
-    "Updated primary gameplay jar to 1.21.1-9.3.16.",
+    "Temporarily switched primary gameplay jar to 1.21.1-9.3.14.",
+    "Kept 1.21.1-9.3.16 uploaded in the release for a later rollback or upgrade.",
     "Prepared release asset URLs for launcher synchronization."
   ],
   "mods": [
@@ -48,10 +49,10 @@
       "required": true
     },
     {
-      "path": "Pixelmon-1.21.1-9.3.16-universal.jar",
-      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/Pixelmon-1.21.1-9.3.16-universal.jar",
-      "sha256": "a113c85094cb8ce24bfeb16e969a1f0607aaae4994ecba638727a5df054173da",
-      "size": 394630736,
+      "path": "Pixelmon-1.21.1-9.3.14-universal.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/Pixelmon-1.21.1-9.3.14-universal.jar",
+      "sha256": "4402e5d03847b219eb931c8ea4ac187c9baae2bfdecf1d15e92c78589d390f5c",
+      "size": 392190454,
       "required": true
     },
     {
