@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "appId": "pixelmon-classic-launcher",
+  "latestVersion": "2026.05.19",
+  "minimumSupportedVersion": "1.0.0",
+  "mandatory": false,
+  "title": "Pixelmon Classic Launcher Update",
+  "releaseNotes": [
+    "Launcher defaults now include live mod, Java runtime, and launcher update manifests.",
+    "Existing placeholder example.com settings fall back to packaged defaults."
+  ],
+  "artifacts": [
+    {
+      "rid": "win-x64",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup-lite.exe",
+      "sha256": "8b8eee98bafcc95b245f34da5cfeb2ad63ec21f462e025d468f997610b68d8ec",
+      "size": 64625750
+    }
+  ]
+}
