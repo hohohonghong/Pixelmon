@@ -7,14 +7,15 @@
   "title": "Pixelmon Classic Launcher Update",
   "releaseNotes": [
     "Launcher defaults now include live mod, Java runtime, and launcher update manifests.",
-    "Existing placeholder example.com settings fall back to packaged defaults."
+    "Existing placeholder example.com settings fall back to packaged defaults.",
+    "32-bit launcher builds on 64-bit Windows can use the x64 installer update artifact."
   ],
   "artifacts": [
     {
       "rid": "win-x64",
-      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup-lite-2026.05.19.exe",
-      "sha256": "a18c2962b0d60441910461016c6a7873a94d52fc9b4a781201a869aeebcb0ce0",
-      "size": 64620303
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup-lite-2026.05.19-r2.exe",
+      "sha256": "6438a55d1ede7ea82087665c2085533b1bc67227bc07ff89fbf67273b728b8da",
+      "size": 64629016
     }
   ]
 }
