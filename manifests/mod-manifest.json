@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "packId": "pixelmon-classic",
+  "version": "2026.05.19",
+  "title": "Launcher Asset Pack",
+  "minecraftVersion": "1.21.1",
+  "neoForgeVersion": "21.1.219",
+  "mandatory": true,
+  "deleteUnlisted": true,
+  "changelog": [
+    "Updated primary gameplay jar to 1.21.1-9.3.16.",
+    "Prepared release asset URLs for launcher synchronization."
+  ],
+  "mods": [
+    {
+      "path": "fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar",
+      "sha256": "a94b965f7bacea49d9a6253866801cc9073ca5d38e184c7695d82b6a2536b707",
+      "size": 10332,
+      "required": true
+    },
+    {
+      "path": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha256": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "size": 2438548,
+      "required": true
+    },
+    {
+      "path": "journeymap-neoforge-1.21.1-6.0.0-beta.54.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/journeymap-neoforge-1.21.1-6.0.0-beta.54.jar",
+      "sha256": "121d84332dba09100ea8c654a8c5b75bdf1257639d00aca1210c5dc31f36cb38",
+      "size": 3546019,
+      "required": true
+    },
+    {
+      "path": "koreanpatch-neoforge-1.9.5+mc1.21.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/koreanpatch-neoforge-1.9.5+mc1.21.jar",
+      "sha256": "687a07d0f7b07c05a89d46a9898195bf623f41092626b6cce744faea6effe79a",
+      "size": 310970,
+      "required": true
+    },
+    {
+      "path": "ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+      "sha256": "0df122a68ec82a2be9f1a041c33bbde133236cc5e13be5b7a48a08b22de8cae0",
+      "size": 25030667,
+      "required": true
+    },
+    {
+      "path": "Pixelmon-1.21.1-9.3.16-universal.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/Pixelmon-1.21.1-9.3.16-universal.jar",
+      "sha256": "a113c85094cb8ce24bfeb16e969a1f0607aaae4994ecba638727a5df054173da",
+      "size": 394630736,
+      "required": true
+    },
+    {
+      "path": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+      "size": 1162994,
+      "required": true
+    }
+  ]
+}
