@@ -9,7 +9,7 @@
   "deleteUnlisted": true,
   "changelog": [
     "Temporarily switched primary gameplay jar to 1.21.1-9.3.14.",
-    "Kept 1.21.1-9.3.16 uploaded in the release for a later rollback or upgrade.",
+    "Kept the previous gameplay jar uploaded in the release for a later rollback or upgrade.",
     "Prepared release asset URLs for launcher synchronization."
   ],
   "mods": [
