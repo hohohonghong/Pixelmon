@@ -13,7 +13,7 @@
   "artifacts": [
     {
       "rid": "win-x64",
-      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup-lite-2026.05.19-r2.exe",
+      "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup.exe",
       "sha256": "6438a55d1ede7ea82087665c2085533b1bc67227bc07ff89fbf67273b728b8da",
       "size": 64629016
     }
