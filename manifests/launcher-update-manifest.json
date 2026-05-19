@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
   "appId": "pixelmon-classic-launcher",
-  "latestVersion": "2026.05.19",
+  "latestVersion": "2026.05.20",
   "minimumSupportedVersion": "1.0.0",
   "mandatory": false,
   "title": "Pixelmon Classic Launcher Update",
   "releaseNotes": [
     "Launcher defaults now include live mod, Java runtime, and launcher update manifests.",
     "Existing placeholder example.com settings fall back to packaged defaults.",
-    "32-bit launcher builds on 64-bit Windows can use the x64 installer update artifact."
+    "32-bit launcher builds on 64-bit Windows can use the x64 installer update artifact.",
+    "Play now shows clear install/sync/start states and stays locked while Minecraft is running."
   ],
   "artifacts": [
     {
       "rid": "win-x64",
       "url": "https://github.com/hohohonghong/Pixelmon/releases/download/launcher-assets-2026.05.19/PixelmonClassicLauncherSetup.exe",
-      "sha256": "6438a55d1ede7ea82087665c2085533b1bc67227bc07ff89fbf67273b728b8da",
-      "size": 64629016
+      "sha256": "07b52e03f4a67b5a8c5e45e1273dc5827cfcfc06893174205384e2afa22e8380",
+      "size": 64633998
     }
   ]
 }
