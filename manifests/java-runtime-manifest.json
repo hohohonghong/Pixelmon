@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "javaMajorVersion": 21,
+  "title": "Launcher Java 21 Runtime",
+  "artifacts": [
+    {
+      "rid": "win-x64",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.zip",
+      "sha256": "d3625e7cadf23787ea540229544b6e2ab494b3b54da1801879e583e1dfee0a64",
+      "size": 205073954
+    },
+    {
+      "rid": "win-arm64",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.zip",
+      "sha256": "a6ef0829c261f856ef93d64724be6bc8fd8355c2bbddbd26d6544478a8353f87",
+      "size": 192674418
+    }
+  ]
+}
